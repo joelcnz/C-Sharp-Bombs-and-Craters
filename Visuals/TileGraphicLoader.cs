@@ -24,7 +24,7 @@ namespace WindowsGame1.Visuals
             var blockTexture = contentManager.Load<Texture2D>("block");
             var bombTexture = contentManager.Load<Texture2D>("bomb");
             var spikesTexture = contentManager.Load<Texture2D>("spikes");
-            var blankTexture = new Texture2D(graphicsDevice, scribbleTexture.Width, scribbleTexture.Height);
+            var blankTexture = new Texture2D(graphicsDevice, blockTexture.Width, blockTexture.Height);
 
             tileGraphics.Add(TileType.Scribble, scribbleTexture);
             tileGraphics.Add(TileType.block, blockTexture);
