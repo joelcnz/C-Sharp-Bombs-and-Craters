@@ -1,3 +1,4 @@
+//#magic number alert!
 using System.Collections.Generic;
 using System.Linq;
 using Microsoft.Xna.Framework;
@@ -34,7 +35,8 @@ namespace WindowsGame1.Visuals
 
                     spriteBatch.Draw(tile.Visual, rectangle, Color.White);
 
-                    left += 64; // tile.Width;
+                    //#magic number alert!
+                    left += 64; // tile.Width; // not all widths are the same
                 }
                 top += tileVisualRow.Max(r => r.Height);
             }
