@@ -1,0 +1,7 @@
+C:\Users\Joel\Documents\Visual Studio 2008\Projects\TileAlan\bin\x86\Debug\Content\Bitmap1.xnb
+C:\Users\Joel\Documents\Visual Studio 2008\Projects\TileAlan\bin\x86\Debug\WindowsGame1.exe
+C:\Users\Joel\Documents\Visual Studio 2008\Projects\TileAlan\bin\x86\Debug\WindowsGame1.pdb
+C:\Users\Joel\Documents\Visual Studio 2008\Projects\TileAlan\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Joel\Documents\Visual Studio 2008\Projects\TileAlan\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Joel\Documents\Visual Studio 2008\Projects\TileAlan\obj\x86\Debug\WindowsGame1.exe
+C:\Users\Joel\Documents\Visual Studio 2008\Projects\TileAlan\obj\x86\Debug\WindowsGame1.pdb
