@@ -88,7 +88,7 @@ namespace WindowsGame1
             if (key.IsKeyDown(Keys.Tab))
             {
                 ToggleTiles();
-                //while (Keyboard.GetState(PlayerIndex.One).IsKeyDown(Keys.Tab)) { } //#bad
+                //while (Keyboard.GetState(PlayerIndex.One).IsKeyDown(Keys.Tab)) {} //#bad
             }
 
             base.Update(gameTime);
@@ -105,7 +105,7 @@ namespace WindowsGame1
                             tile.TileType == TileType.Blank ?
                             TileType.Scribble :
                                 tile.TileType == TileType.Scribble ? 
-                                    TileType.Blank :  tile.TileType;
+                                    TileType.Blank : tile.TileType;
                 }
             }
         }

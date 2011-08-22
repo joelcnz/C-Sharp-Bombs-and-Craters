@@ -1,3 +1,5 @@
+//#maybe the more vorbose way is better
+//#magic numbers
 using System.Collections.Generic;
 using Microsoft.Xna.Framework.Content;
 using Microsoft.Xna.Framework.Graphics;
@@ -20,17 +22,16 @@ namespace WindowsGame1.Visuals
         {
             var tileGraphics = new Dictionary<TileType, Texture2D>();
 
-            var scribbleTexture = contentManager.Load<Texture2D>("Bitmap1");
-            var blockTexture = contentManager.Load<Texture2D>("block");
-            var bombTexture = contentManager.Load<Texture2D>("bomb");
-            var spikesTexture = contentManager.Load<Texture2D>("spikes");
-            var blankTexture = new Texture2D(graphicsDevice, blockTexture.Width, blockTexture.Height);
-
-            tileGraphics.Add(TileType.Scribble, scribbleTexture);
-            tileGraphics.Add(TileType.block, blockTexture);
-            tileGraphics.Add(TileType.bomb, bombTexture);
-            tileGraphics.Add(TileType.spikes, spikesTexture);
-            tileGraphics.Add(TileType.Blank, blankTexture);
+            //#maybe the more vorbose way is better
+            var names = new string[] {"Bitmap1", "block", "bomb", "spikes"};
+            var type = new TileType[] { TileType.Scribble, TileType.block, TileType.bomb, TileType.spikes };
+            int i = 0;
+            foreach (var name in names)
+            {
+                tileGraphics.Add(type[i], contentManager.Load<Texture2D>(name));
+                i++;
+            }
+            tileGraphics.Add(TileType.Blank, new Texture2D(graphicsDevice, 64, 64)); //#magic numbers
 
             return tileGraphics;
         }

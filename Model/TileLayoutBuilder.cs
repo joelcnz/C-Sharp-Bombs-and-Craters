@@ -1,4 +1,5 @@
-﻿using System;
+﻿//#swapped Widht and Height around
+using System;
 using System.Collections.Generic;
 
 namespace WindowsGame1.Model
@@ -6,8 +7,8 @@ namespace WindowsGame1.Model
     public class TileLayoutBuilder
     {
         private readonly Random random;
-        private const int Width = 30;
-        private const int Height = 20;
+        private const int Width = 10;
+        private const int Height = 8;
 
         public TileLayoutBuilder()
         {
@@ -18,10 +19,11 @@ namespace WindowsGame1.Model
         {
             var tileLayout = new TileLayout();
 
-            for (var i = 0; i < Width; i++)
+            //#swapped Widht and Height around
+            for (var i = 0; i < Height; i++)
             {
                 var row = new List<Tile>();
-                for (var c = 0; c < Height; c++)
+                for (var c = 0; c < Width; c++)
                 {
                     switch( random.Next() % 4 ) {
                         case 0:
@@ -37,16 +39,6 @@ namespace WindowsGame1.Model
                             row.Add(new Tile( TileType.spikes ) );
                         break;
                     }
-                    /*
-                    if (random.Next() % 4 == 0)
-                    {
-                        row.Add(new Tile(TileType.Scribble));
-                    }
-                    else
-                    {
-                        row.Add(new Tile(TileType.Blank));
-                    }
-                     */
                 }
 
                 tileLayout.AddRow(row);

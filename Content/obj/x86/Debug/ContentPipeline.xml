@@ -7,7 +7,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Joel\Documents\Visual Studio 2008\Projects\TileAlan\bin\x86\Debug\Content\Bitmap1.xnb</Output>
+      <Output>C:\Users\Joel\Documents\Visual Studio 2008\Projects\C--Bombs-and-Craters\bin\x86\Debug\Content\Bitmap1.xnb</Output>
       <Time>2011-07-15T21:11:12+12:00</Time>
     </Item>
     <Item>
@@ -16,7 +16,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Joel\Documents\Visual Studio 2008\Projects\TileAlan\bin\x86\Debug\Content\block.xnb</Output>
+      <Output>C:\Users\Joel\Documents\Visual Studio 2008\Projects\C--Bombs-and-Craters\bin\x86\Debug\Content\block.xnb</Output>
       <Time>2011-07-22T20:38:12.2576062+12:00</Time>
     </Item>
     <Item>
@@ -25,7 +25,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Joel\Documents\Visual Studio 2008\Projects\TileAlan\bin\x86\Debug\Content\bomb.xnb</Output>
+      <Output>C:\Users\Joel\Documents\Visual Studio 2008\Projects\C--Bombs-and-Craters\bin\x86\Debug\Content\bomb.xnb</Output>
       <Time>2011-07-22T20:38:12.3576119+12:00</Time>
     </Item>
     <Item>
@@ -34,7 +34,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Joel\Documents\Visual Studio 2008\Projects\TileAlan\bin\x86\Debug\Content\spikes.xnb</Output>
+      <Output>C:\Users\Joel\Documents\Visual Studio 2008\Projects\C--Bombs-and-Craters\bin\x86\Debug\Content\spikes.xnb</Output>
       <Time>2011-07-22T20:38:12.4626179+12:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
@@ -42,10 +42,10 @@
       <TargetPlatform>Windows</TargetPlatform>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\Joel\Documents\Visual Studio 2008\Projects\TileAlan\Content\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\Joel\Documents\Visual Studio 2008\Projects\TileAlan\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\Joel\Documents\Visual Studio 2008\Projects\TileAlan\Content\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\Joel\Documents\Visual Studio 2008\Projects\TileAlan\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\Joel\Documents\Visual Studio 2008\Projects\C--Bombs-and-Craters\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Joel\Documents\Visual Studio 2008\Projects\C--Bombs-and-Craters\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Joel\Documents\Visual Studio 2008\Projects\C--Bombs-and-Craters\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Joel\Documents\Visual Studio 2008\Projects\C--Bombs-and-Craters\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
