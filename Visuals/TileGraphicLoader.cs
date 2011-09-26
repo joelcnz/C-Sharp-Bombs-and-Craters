@@ -23,7 +23,7 @@ namespace WindowsGame1.Visuals
             var tileGraphics = new Dictionary<TileType, Texture2D>();
 
             //#maybe the more vorbose way is better
-            var names = new string[] {"Bitmap1", "block", "bomb", "spikes"};
+            var names = new string[] { "scribble", "block", "bomb", "spikes" };
             var type = new TileType[] { TileType.Scribble, TileType.block, TileType.bomb, TileType.spikes };
             int i = 0;
             foreach (var name in names)

@@ -1,4 +1,4 @@
-Content\Bitmap1.xnb
+Content\scribble.xnb
 Content\block.xnb
 Content\bomb.xnb
 Content\spikes.xnb

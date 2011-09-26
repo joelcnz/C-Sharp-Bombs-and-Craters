@@ -18,3 +18,13 @@ C:\Users\Joel\Documents\Visual Studio 2008\Projects\C--Bombs-and-Craters\obj\x86
 C:\Users\Joel\Documents\Visual Studio 2008\Projects\C--Bombs-and-Craters\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\Joel\Documents\Visual Studio 2008\Projects\C--Bombs-and-Craters\obj\x86\Debug\WindowsGame1.exe
 C:\Users\Joel\Documents\Visual Studio 2008\Projects\C--Bombs-and-Craters\obj\x86\Debug\WindowsGame1.pdb
+C:\Users\Joel\Documents\Visual Studio 2008\Projects\C-Sharp-Bombs-and-Craters\bin\x86\Debug\Content\bomb.xnb
+C:\Users\Joel\Documents\Visual Studio 2008\Projects\C-Sharp-Bombs-and-Craters\bin\x86\Debug\Content\scribble.xnb
+C:\Users\Joel\Documents\Visual Studio 2008\Projects\C-Sharp-Bombs-and-Craters\bin\x86\Debug\Content\block.xnb
+C:\Users\Joel\Documents\Visual Studio 2008\Projects\C-Sharp-Bombs-and-Craters\bin\x86\Debug\Content\spikes.xnb
+C:\Users\Joel\Documents\Visual Studio 2008\Projects\C-Sharp-Bombs-and-Craters\bin\x86\Debug\WindowsGame1.exe
+C:\Users\Joel\Documents\Visual Studio 2008\Projects\C-Sharp-Bombs-and-Craters\bin\x86\Debug\WindowsGame1.pdb
+C:\Users\Joel\Documents\Visual Studio 2008\Projects\C-Sharp-Bombs-and-Craters\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Joel\Documents\Visual Studio 2008\Projects\C-Sharp-Bombs-and-Craters\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Joel\Documents\Visual Studio 2008\Projects\C-Sharp-Bombs-and-Craters\obj\x86\Debug\WindowsGame1.exe
+C:\Users\Joel\Documents\Visual Studio 2008\Projects\C-Sharp-Bombs-and-Craters\obj\x86\Debug\WindowsGame1.pdb
